@@ -1,0 +1,6 @@
+{
+  "name": "SnapSpend",
+  "description": "Offline personal expense tracker with custom receipt camera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
